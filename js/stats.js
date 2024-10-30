@@ -1,4 +1,3 @@
-import { clicksPerSecondDisplay } from "./script";
 
 export const stats = {
     clicks: 0,
