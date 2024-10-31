@@ -1,1 +1,1 @@
-ReactDOM.render(<h1>Hey there! This is just a test :)</h1>)
+ReactDOM.render(<h1>Hey there! This is just a test :)</h1>, document.getElementById("root"))
